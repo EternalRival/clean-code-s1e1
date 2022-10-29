@@ -46,7 +46,7 @@
   list-style: none;
 }
 .input,
-.button{
+.button {
   outline: none;
 }
 .button {
@@ -120,7 +120,7 @@
   font-size: 18px;
   width: 226px;
 }
-.todo-list-item >    .input-text {
+.todo-list-item > .input-text {
   width: 226px;
 }
 .button.delete-button .delete-button-image {
