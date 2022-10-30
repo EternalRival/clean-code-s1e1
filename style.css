@@ -107,7 +107,9 @@
   justify-content: space-between;
   align-items: center;
 }
-.todo-list-item > * {
+.todo-list-item > .input,
+.todo-list-item > .label,
+.todo-list-item > .button {
   vertical-align: middle;
 }
 
